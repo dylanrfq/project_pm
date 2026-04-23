@@ -1,0 +1,209 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Unit Test / Coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Project Specific
+*.log
+debug.log
+error.log
+output.txt
+output_bg.txt
+output_final.txt
+result.txt
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+
+# Large data files (optional - uncomment if needed)
+# *.csv
+# *.xlsx
+# *.xls
+
+# AI/ML specific
+*.pkl
+*.pickle
+*.joblib
+model_weights/
+checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Test outputs
+test_output/
+test_results/
+
+# Environment files
+.env.local
+.env.*.local
+
+# Git
+.git/
+.gitmodules
+
+# Node (if applicable)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Package managers
+Pipfile.lock
+poetry.lock
+
+# Documentation builds
+docs/_build/
+docs/.buildinfo
+site/
+
+# IDE Lock Files
+*.lock
+package-lock.json
+
+# Archive files
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tar.bz2
+
+# Backup scripts
+backup/
+backups/
+archives/
+
+# Compiled files
+*.so
+*.dylib
+*.dll
+*.exe
+*.o
+*.a
+
+# Distribution
+dist/
+build/
+
+# Miscellaneous
+.pytest_cache
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
